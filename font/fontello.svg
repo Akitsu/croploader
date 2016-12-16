@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="zoom-in" unicode="&#xe800;" d="M0 403q0 185 131 316t316 131 318-131 131-316q0-141-82-256l186-186-111-111-186 186q-115-82-256-82-185 0-316 131t-131 318z m127 0q0-133 94-227t226-93 227 93 94 227-94 225-227 93-226-93-94-225z m129-65l0 127 129 0 0 129 127 0 0-129 129 0 0-127-129 0 0-129-127 0 0 129-129 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="zoom-out" unicode="&#xe801;" d="M0 403q0 185 131 316t316 131 318-131 131-316q0-141-82-256l186-186-111-111-186 186q-115-82-256-82-185 0-316 131t-131 318z m127 0q0-133 94-227t226-93 227 93 94 227-94 225-227 93-226-93-94-225z m129-65l0 127 385 0 0-127-385 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="crop" unicode="&#xf125;" d="M311 136h332v332z m-25 25l332 332h-332v-332z m643-43v-107q0-8-5-13t-13-5h-125v-125q0-8-5-13t-13-5h-107q-8 0-13 5t-5 13v125h-482q-8 0-13 5t-5 13v482h-125q-8 0-13 5t-5 13v107q0 8 5 13t13 5h125v125q0 8 5 13t13 5h107q8 0 13-5t5-13v-125h475l137 138q6 5 13 5t13-5q5-6 5-13t-5-13l-138-137v-475h125q8 0 13-5t5-13z" horiz-adv-x="928.6" />
+</font>
+</defs>
+</svg>

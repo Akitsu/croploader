@@ -64,7 +64,7 @@
 .cropContainer {
     z-index: 99999999;
     position: absolute;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.5);
 }
 
 .cropTool {
@@ -148,4 +148,10 @@
 
 .cropPreviewImage {
     position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
 }
